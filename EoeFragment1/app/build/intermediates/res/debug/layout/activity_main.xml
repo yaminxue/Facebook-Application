@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/activity_bg"
+    android:orientation="vertical" >
+
+    <fragment
+        android:id="@+id/fragment_home"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        class="com.eoe.guide.fragment.HomeFragment" />
+
+    <fragment
+        android:id="@+id/fragment_chat"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        class="com.eoe.guide.fragment.ChatFragment" />
+
+    <fragment
+        android:id="@+id/fragment_discover"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        class="com.eoe.guide.fragment.DiscoverFragment" />
+
+    <com.eoe.guide.fragment.FragmentIndicator
+        android:id="@+id/indicator"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/tab_footer_bg" />
+
+</LinearLayout><!-- From: file:/Users/yamin/Documents/AndroidProjects/EoeFragment1/app/src/main/res/layout/activity_main.xml -->
