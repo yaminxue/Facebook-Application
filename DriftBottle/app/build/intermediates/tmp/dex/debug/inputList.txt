@@ -1,0 +1,6 @@
+/Users/yamin/Documents/AndroidProjects/DriftBottle2/app/build/intermediates/classes/debug
+/Users/yamin/Documents/AndroidProjects/DriftBottle2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-3b8b76ab026013fec237b50a93be566ef4913377.jar
+/Users/yamin/Documents/AndroidProjects/DriftBottle2/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-f466bcb7e6f7c43ef3429383fd271f7ec2afea1b.jar
+/Users/yamin/Documents/AndroidProjects/DriftBottle2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-76670c3fb7301736a95f40216db96e049c586179.jar
+/Users/yamin/Documents/AndroidProjects/DriftBottle2/app/build/intermediates/pre-dexed/debug/classes-403d29829a411ecdd4f521dd5b7b17cf5dd96200.jar
+/Users/yamin/Documents/AndroidProjects/DriftBottle2/app/build/intermediates/pre-dexed/debug/classes-3d1c4069f276f79dfffe91a27c46cea3d7df830c.jar

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.driftbottle"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
+
+
+
+        <activity android:name="com.facebook.LoginActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:label="@string/app_name" />
+
+        <activity
+            android:name="com.example.driftbottle.DriftBottleActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.example.driftbottle.Driftbottle_setting"/>
+        <activity android:name="com.example.driftbottle.MyBottle"/>
+        <activity android:name="com.example.driftbottle.PickupBottle"/>
+        <activity android:name="com.example.driftbottle.chuck_animation"/>
+		
+        <activity
+            android:name=".ShowMessage"
+            android:parentActivityName=".PickupBottle">
+        </activity>
+
+        <activity
+            android:name=".ChatActivity"
+            android:parentActivityName=".MyBottle">
+        </activity>
+    </application>
+
+</manifest>

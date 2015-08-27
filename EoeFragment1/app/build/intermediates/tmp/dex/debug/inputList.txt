@@ -1,2 +1,0 @@
-/Users/yamin/Documents/AndroidProjects/EoeFragment1/app/build/intermediates/classes/debug
-/Users/yamin/Documents/AndroidProjects/EoeFragment1/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-79b83cad467584c0be4d6197f806851cd068e57f.jar

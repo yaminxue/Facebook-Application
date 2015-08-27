@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="facebook_app_id">805939502817832</string>
+
+    <string name="app_name">YueMaBottle</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- 朋友们 -->
+    <string name="friend_circle">friend circle</string>
+    <string name="friend_add">add friend</string>
+    <string name="friend_nearby">people nearby</string>
+    <string name="friend_shake">shake</string>
+    <string name="friend_drift">bottle</string>
+    <string name="friend_findNumber">find by number</string>
+    <string name="friend_sweep">scan</string>
+    <string name="friend_fromAdd">add from friend list</string>
+    <string name="friend_fromcontactAdd">add from contact list</string>
+    <string name="friend_public">check public account</string>
+    <string name="friend_discard_bottle">throw a bottle</string>
+    <string name="friend_collect_bottle">pick a bottle</string>
+    <string name="friend_my_bottle">my bottle</string>
+    <string name="friend_search_titlename">search by number</string>
+    <string name="friend_search_titlename1">WeChat Account/QQ Account/Mobile Number/Public Account</string>
+    <string name="friend_search_titlename2">invite friend</string>
+    <string name="nothing"></string>
+    <string name="download_confirm_msg">Check you have not install voice component, download now?</string>
+    <string name="dialog_confirm_button">confirm</string>
+    <string name="dialog_cancel_button">cancel</string>
+
+</resources>
